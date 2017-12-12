@@ -1,16 +1,13 @@
 {
   "name": "formBuilder",
-  "version": "2.9.8",
+  "version": "0.0.0",
   "main": "dist/form-builder.min.js",
   "files": [
     "dist/form-builder.min.js",
     "dist/form-render.min.js"
   ],
   "homepage": "https://formbuilder.online/",
-  "repository": {
-    "url": "http://github.com/kevinchappell/formBuilder",
-    "type": "git"
-  },
+  "repository": "http://github.com/kevinchappell/formBuilder",
   "author": "Kevin Chappell <kevin.b.chappell@gmail.com>",
   "contributors": [],
   "bugs": "https://github.com/kevinchappell/formBuilder/issues",
